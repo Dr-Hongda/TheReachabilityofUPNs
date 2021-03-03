@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1077f23-a3d8-4ec5-90fe-a85951fbec9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="5cae7ee5-afa3-4cab-86da-e8971969bd2a" />
+  <component name="ProjectId" id="1meN4BtNaSx0HJm41Hj0MX4UEPp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../code/GraphNodeClassifier" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\博士期间\小论文\无界网可达性\code\ReachabilityofUPN\Algorithm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.w-related_diffHiddenNo_XG">
+    <configuration name="1Place_diffHiddenNo_XG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReachabilityofUPN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/1Place_diffHiddenNo_XG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ReachabilityofUPN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="w-independence_diffHiddenNo_XG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReachabilityofUPN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/w-independence_diffHiddenNo_XG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="w-related_diffHiddenNo_XG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReachabilityofUPN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/w-related_diffHiddenNo_XG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.w-related_diffHiddenNo_XG" />
+        <item itemvalue="Python.w-independence_diffHiddenNo_XG" />
+        <item itemvalue="Python.1Place_diffHiddenNo_XG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1077f23-a3d8-4ec5-90fe-a85951fbec9f" name="Default Changelist" comment="" />
+      <created>1609849902928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609849902928</updated>
+      <workItem from="1609849904600" duration="2226000" />
+      <workItem from="1610093468648" duration="63000" />
+      <workItem from="1610095450156" duration="1152000" />
+      <workItem from="1610270472187" duration="19000" />
+      <workItem from="1614756500744" duration="245000" />
+      <workItem from="1614757327360" duration="1257000" />
+      <workItem from="1614761372135" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="164" key="#Deployment" timestamp="1614761650758">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="353" y="164" key="#Deployment/0.0.1563.1002@0.0.1563.1002" timestamp="1614761650758" />
+    <state x="409" y="182" key="#Options" timestamp="1614761430164">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="409" y="182" key="#Options/0.0.1563.1002@0.0.1563.1002" timestamp="1614761430164" />
+    <state x="337" y="151" key="#SSH_Configurations" timestamp="1614761450436">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="337" y="151" key="#SSH_Configurations/0.0.1563.1002@0.0.1563.1002" timestamp="1614761450436" />
+    <state x="488" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614761384722">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="488" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1563.1002@0.0.1563.1002" timestamp="1614761384722" />
+    <state x="230" y="105" width="1060" height="802" key="DiffContextDialog" timestamp="1614761615225">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="230" y="105" width="1060" height="802" key="DiffContextDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1614761615225" />
+    <state x="562" y="242" key="FileChooserDialogImpl" timestamp="1610270489271">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="562" y="242" key="FileChooserDialogImpl/0.0.1563.1002@0.0.1563.1002" timestamp="1610270489271" />
+    <state width="760" height="269" key="GridCell.Tab.0.bottom" timestamp="1609859408146">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="760" height="269" key="GridCell.Tab.0.bottom/0.0.1563.1002@0.0.1563.1002" timestamp="1609859408146" />
+    <state width="760" height="269" key="GridCell.Tab.0.center" timestamp="1609859408146">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="760" height="269" key="GridCell.Tab.0.center/0.0.1563.1002@0.0.1563.1002" timestamp="1609859408146" />
+    <state width="760" height="269" key="GridCell.Tab.0.left" timestamp="1609859408146">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="760" height="269" key="GridCell.Tab.0.left/0.0.1563.1002@0.0.1563.1002" timestamp="1609859408146" />
+    <state width="760" height="269" key="GridCell.Tab.0.right" timestamp="1609859408146">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="760" height="269" key="GridCell.Tab.0.right/0.0.1563.1002@0.0.1563.1002" timestamp="1609859408146" />
+    <state x="566" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614761405937">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="566" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1563.1002@0.0.1563.1002" timestamp="1614761405937" />
+    <state x="639" y="236" width="373" height="539" key="ftp.server.browser" timestamp="1614761649379">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="639" y="236" width="373" height="539" key="ftp.server.browser/0.0.1563.1002@0.0.1563.1002" timestamp="1614761649379" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ReachabilityofUPN$w_related_diffHiddenNo_XG.coverage" NAME="w-related_diffHiddenNo_XG Coverage Results" MODIFIED="1609850704853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/ReachabilityofUPN$1Place_diffHiddenNo_XG.coverage" NAME="1Place_diffHiddenNo_XG Coverage Results" MODIFIED="1609850225495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/ReachabilityofUPN$main.coverage" NAME="main Coverage Results" MODIFIED="1609850216748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ReachabilityofUPN$w_independence_diffHiddenNo_XG.coverage" NAME="w-independence_diffHiddenNo_XG Coverage Results" MODIFIED="1609850599383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+  </component>
+</project>
