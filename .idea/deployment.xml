@@ -5,7 +5,7 @@
       <paths name="qhd@10.60.150.189:22 password">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/qhd/code/ReachabilityofUPN" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/code/ReachabilityofUPN" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

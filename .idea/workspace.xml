@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1077f23-a3d8-4ec5-90fe-a85951fbec9f" name="Default Changelist" comment="" />
+    <list default="true" id="f1077f23-a3d8-4ec5-90fe-a85951fbec9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../code/GraphNodeClassifier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -32,7 +52,7 @@
       <recent name="D:\博士期间\小论文\无界网可达性\code\ReachabilityofUPN\Algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.w-related_diffHiddenNo_XG">
+  <component name="RunManager" selected="Python.1Place_diffHiddenNo_XG">
     <configuration name="1Place_diffHiddenNo_XG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ReachabilityofUPN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,9 +143,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1Place_diffHiddenNo_XG" />
         <item itemvalue="Python.w-related_diffHiddenNo_XG" />
         <item itemvalue="Python.w-independence_diffHiddenNo_XG" />
-        <item itemvalue="Python.1Place_diffHiddenNo_XG" />
       </list>
     </recent_temporary>
   </component>
@@ -143,22 +163,37 @@
       <workItem from="1610270472187" duration="19000" />
       <workItem from="1614756500744" duration="245000" />
       <workItem from="1614757327360" duration="1257000" />
-      <workItem from="1614761372135" duration="278000" />
+      <workItem from="1614761372135" duration="908000" />
+      <workItem from="1614762293377" duration="24000" />
+      <workItem from="1614786395794" duration="21000" />
+      <workItem from="1615984992965" duration="74000" />
+      <workItem from="1615985131498" duration="322000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="353" y="164" key="#Deployment" timestamp="1614761650758">
+    <state x="353" y="164" key="#Deployment" timestamp="1615985456062">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="353" y="164" key="#Deployment/0.0.1563.1002@0.0.1563.1002" timestamp="1614761650758" />
-    <state x="409" y="182" key="#Options" timestamp="1614761430164">
+    <state x="353" y="164" key="#Deployment/0.0.1563.1002@0.0.1563.1002" timestamp="1615985456062" />
+    <state x="409" y="182" key="#Options" timestamp="1615985300063">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="409" y="182" key="#Options/0.0.1563.1002@0.0.1563.1002" timestamp="1614761430164" />
+    <state x="409" y="182" key="#Options/0.0.1563.1002@0.0.1563.1002" timestamp="1615985300063" />
     <state x="337" y="151" key="#SSH_Configurations" timestamp="1614761450436">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
@@ -171,38 +206,38 @@
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
     <state x="230" y="105" width="1060" height="802" key="DiffContextDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1614761615225" />
-    <state x="562" y="242" key="FileChooserDialogImpl" timestamp="1610270489271">
+    <state x="562" y="242" key="FileChooserDialogImpl" timestamp="1614786414974">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="562" y="242" key="FileChooserDialogImpl/0.0.1563.1002@0.0.1563.1002" timestamp="1610270489271" />
-    <state width="760" height="269" key="GridCell.Tab.0.bottom" timestamp="1609859408146">
+    <state x="562" y="242" key="FileChooserDialogImpl/0.0.1563.1002@0.0.1563.1002" timestamp="1614786414974" />
+    <state width="1520" height="269" key="GridCell.Tab.0.bottom" timestamp="1615985265422">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state width="760" height="269" key="GridCell.Tab.0.bottom/0.0.1563.1002@0.0.1563.1002" timestamp="1609859408146" />
-    <state width="760" height="269" key="GridCell.Tab.0.center" timestamp="1609859408146">
+    <state width="1520" height="269" key="GridCell.Tab.0.bottom/0.0.1563.1002@0.0.1563.1002" timestamp="1615985265422" />
+    <state width="1520" height="269" key="GridCell.Tab.0.center" timestamp="1615985265422">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state width="760" height="269" key="GridCell.Tab.0.center/0.0.1563.1002@0.0.1563.1002" timestamp="1609859408146" />
-    <state width="760" height="269" key="GridCell.Tab.0.left" timestamp="1609859408146">
+    <state width="1520" height="269" key="GridCell.Tab.0.center/0.0.1563.1002@0.0.1563.1002" timestamp="1615985265422" />
+    <state width="1520" height="269" key="GridCell.Tab.0.left" timestamp="1615985265421">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state width="760" height="269" key="GridCell.Tab.0.left/0.0.1563.1002@0.0.1563.1002" timestamp="1609859408146" />
-    <state width="760" height="269" key="GridCell.Tab.0.right" timestamp="1609859408146">
+    <state width="1520" height="269" key="GridCell.Tab.0.left/0.0.1563.1002@0.0.1563.1002" timestamp="1615985265421" />
+    <state width="1520" height="269" key="GridCell.Tab.0.right" timestamp="1615985265422">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state width="760" height="269" key="GridCell.Tab.0.right/0.0.1563.1002@0.0.1563.1002" timestamp="1609859408146" />
-    <state x="566" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614761405937">
+    <state width="1520" height="269" key="GridCell.Tab.0.right/0.0.1563.1002@0.0.1563.1002" timestamp="1615985265422" />
+    <state x="566" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615985230889">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="566" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1563.1002@0.0.1563.1002" timestamp="1614761405937" />
-    <state x="639" y="236" width="373" height="539" key="ftp.server.browser" timestamp="1614761649379">
+    <state x="566" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1563.1002@0.0.1563.1002" timestamp="1615985230889" />
+    <state x="639" y="236" width="373" height="539" key="ftp.server.browser" timestamp="1615985451720">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="639" y="236" width="373" height="539" key="ftp.server.browser/0.0.1563.1002@0.0.1563.1002" timestamp="1614761649379" />
+    <state x="639" y="236" width="373" height="539" key="ftp.server.browser/0.0.1563.1002@0.0.1563.1002" timestamp="1615985451720" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ReachabilityofUPN$w_related_diffHiddenNo_XG.coverage" NAME="w-related_diffHiddenNo_XG Coverage Results" MODIFIED="1609850704853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/ReachabilityofUPN$1Place_diffHiddenNo_XG.coverage" NAME="1Place_diffHiddenNo_XG Coverage Results" MODIFIED="1609850225495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/ReachabilityofUPN$1Place_diffHiddenNo_XG.coverage" NAME="1Place_diffHiddenNo_XG Coverage Results" MODIFIED="1615985163924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/ReachabilityofUPN$main.coverage" NAME="main Coverage Results" MODIFIED="1609850216748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ReachabilityofUPN$w_independence_diffHiddenNo_XG.coverage" NAME="w-independence_diffHiddenNo_XG Coverage Results" MODIFIED="1609850599383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
   </component>
