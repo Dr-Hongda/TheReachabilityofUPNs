@@ -369,7 +369,7 @@ class BaggingClassifierPU(BaseBaggingPU, ClassifierMixin):
         n_samples = y.shape[0]
         n_classes_ = self.n_classes_
         classes_ = self.classes_
-
+        
         predictions = np.zeros((n_samples, n_classes_))
 
         for estimator, samples, features in zip(self.estimators_,
@@ -377,12 +377,12 @@ class BaggingClassifierPU(BaseBaggingPU, ClassifierMixin):
                                                 self.estimators_features_):
 
             mask = ~samples
-
             if hasattr(estimator, "predict_proba"):
+                
                 predictions[mask, :] += estimator.predict_proba(
                     (X[mask, :])[:, features])
 
-            else:
+            else:           
                 p = estimator.predict((X[mask, :])[:, features])
                 j = 0
 
